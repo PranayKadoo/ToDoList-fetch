@@ -101,6 +101,7 @@ input[type="text"]:focus{
 } */
 .id{
     color: red;
+    font-size: 0vw;
 }
 .history_data_in{
     color: rgb(18, 31, 58);
