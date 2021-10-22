@@ -132,5 +132,19 @@ input[type="text"]:focus{
         border: 2px solid rgb(4, 166, 216);
         animation: 0.3s add-cart-item;
         background-color: #fff;
+        font-size: calc(11px + (22 - 11) * ((100vw - 300px) / (1600 - 300)));
+
     }
+    .history_data_in{
+        color: rgb(18, 31, 58);
+        border: 2px solid rgb(4, 166, 216);
+        animation: 0.3s add-cart-item;
+        background-color: #fff;
+        padding: calc(6px + (11 - 6) * ((100vw - 300px) / (1600 - 300)));
+        margin:10px;
+        align-items: center;
+        text-align: start;
+        font-size: calc(11px + (22 - 11) * ((100vw - 300px) / (1600 - 300)));
+    }
+    
 }
