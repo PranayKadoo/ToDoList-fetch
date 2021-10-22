@@ -72,6 +72,8 @@ input[type="text"]:focus{
 } */
 .container-bg{
     background-color: rgb(1, 52, 82);
+    padding-left: 10px;
+    padding-right: 10px;
 }
 .col-custom{
     background-color: rgb(1, 52, 82);
