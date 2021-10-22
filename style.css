@@ -100,7 +100,8 @@ input[type="text"]:focus{
     padding-right: 50px;
 } */
 .id{
-    color: white;
+    color: red;
+    display: none;
 }
 .history_data_in{
     color: rgb(18, 31, 58);
